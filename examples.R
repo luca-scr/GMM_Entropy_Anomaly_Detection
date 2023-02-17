@@ -1,3 +1,4 @@
+# install.packages("mclust")
 library(mclust)
 colors = mclust.options("classPlotColors")
 symbols = mclust.options("classPlotSymbols")
