@@ -7,8 +7,8 @@ Scrucca (2023) proposes an entropy-based approach for initial detection of noisy
 
 - This repository contains the R code to reproduce the analyses in the paper:
 
-	Scrucca L. (2023) Entropy-based anomaly detection for Gaussian mixture modeling. Submitted to *Algorithms*.
-
+  Scrucca L. (2023) Entropy-based anomaly detection for Gaussian mixture modeling. *Algorithms*, 16:4, 195. doi: [10.3390/a16040195](https://doi.org/10.3390/a16040195)
+  
 - Instructions:
 
 	- open and execute the code contained in the file `examples.R`.
